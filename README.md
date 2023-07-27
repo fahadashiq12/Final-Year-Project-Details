@@ -20,4 +20,10 @@ Online Admission System - Final Year Project BSCS Batch 2016-2020 GCU, Lahore.
 
 ![Alt text](<Project_Screens/Screenshot (30) - Copy.png>)
 
+![Alt text](<Project_Screens/Screenshot (31) - Copy.png>)
+
+![Alt text](<Project_Screens/Screenshot (32) - Copy.png>)
+
+![Alt text](<Project_Screens/Screenshot (33) - Copy.png>)
+
 ![Alt text](<Project_Screens/Screenshot (110) - Copy.png>)
